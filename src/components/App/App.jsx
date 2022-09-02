@@ -33,7 +33,7 @@ const  App = () => {
     if(!data){
       if(key === 'contacts')return[];
       if(key === 'langauge')return'Ua';
-      if(key === 'background')return "https://pixabay.com/get/g61892b2c1fd49e5e84c7c097eef62144aec8dda3b4b9cd34f66fde44ac56e51344b349409acbb904becd2322b748f080afb29f60f8173860c8825e1fcbfae97c_1280.jpg";
+      if(key === 'background')return "https://pixabay.com/get/g80f41fd59adf124489f03eac4b8389d901aa890cb15edb2f8a653c64b2e86dae4b9b7bf328749f3c412a64c82cd2b6a078efb800f826b40b83743a5b2234e804_1280.jpg";
     }
     const parseContacts = JSON.parse(data);
     if (parseContacts)return parseContacts;
