@@ -1,15 +1,15 @@
-{"teachers":[
-    {"id": 1,   "name": "Колесник Алла Олексіївна",     "src": ""},
-    {"id": 2,   "name": "Реуцький Вячеслав Вікторович", "src": ""},
-    {"id": 3,   "name": "Іванюк Максим Євгенович",      "src": ""},
-    {"id": 4,   "name": "Глушко Ольга Володимировна",   "src": ""},
-    {"id": 5,   "name": "Лазуренко Олена Миколаївна",   "src": ""},
-    {"id": 6,   "name": "Лінниченко Світлана",          "src": ""},
-    {"id": 7,   "name": "Маркова Валентина",            "src": ""},
-    {"id": 8,   "name": "Петренко Яніна Сергіївна",     "src": ""},
-    {"id": 9,   "name": "Кушнір Тетяна Володимировна",  "src": ""},
-    {"id": 10,  "name": "Меленець Надія Геннадіївна",   "src": ""},
-    {"id": 11,  "name": "Прокошева Ганна Борисівна",    "src": ""},
-    {"id": 12,  "name": "Зозуля Ольга Володимирівна",   "src": ""}
-    ]
+{
+"0":  { "name": "",                             "link": ""},
+"1":  { "name": "Колесник Алла Олексіївна",     "link": "https://us04web.zoom.us/j/2885927720?pwd=EPG9W_h52LBeC8qNwk9UIQAQAacnsX.1"},
+"2":  { "name": "Реуцький Вячеслав Вікторович", "link": ""},
+"3":  { "name": "Іванюк Максим Євгенович",      "link": "https://us04web.zoom.us/j/2402340228?pwd=cEpJOHpVQ0RuVm9EU1pzWDJGSHFuUT09"},
+"4":  { "name": "",                          "link": ""},
+"5":  { "name": "Лазуренко Олена Миколаївна",   "link": "https://us05web.zoom.us/j/5757764876?pwd=bjgxWW0xNldiUVQzb3ZmT1lmb21YQT09"},
+"6":  { "name": "Лінниченко Світлана",          "link": "https://us05web.zoom.us/j/9503992233?pwd=Nk1Ybm05ZGhVaW1YbGJDY2RZWUVEQT09"},
+"7":  { "name": "Маркова Валентина",            "link": "https://us05web.zoom.us/j/84720056380?pwd=dzBnQjk4ZStlc2xyb09lNW5WUnFxZz09"},
+"8":  { "name": "Петренко Яніна Сергіївна",     "link": "https://zoom.us/j/7559940465?pwd=MWpyUTFzT3NNMzFMYmtpUDVtNWJLZz09"},
+"9":  { "name": "Кушнір Тетяна Володимировна",  "link": "https://us04web.zoom.us/j/7797457526?pwd=QzFmUVN3L08ydmcvT25JUE5rV3pIUT09"},
+"10": { "name": "Меленець Надія Геннадіївна",   "link": "https://us05web.zoom.us/j/6620616002?pwd=STY1S3N5aElxdEtVOXlidlZPKzNXdz09"},
+"11": { "name": "Прокошева Ганна Борисівна",    "link": "https://us04web.zoom.us/j/77985035605?pwd=R0JSK1VzOS9Oam1QTTVUUk9XcFlsQT09"},
+"12": { "name": "Зозуля Ольга Володимирівна",   "link": ""}
 }

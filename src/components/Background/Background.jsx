@@ -26,7 +26,7 @@ export default function Background({changeBackground}){
     }
 
     return  <>
-            <BackgroundBtn type="button" disabled={showeModal} onClick={onModal}>
+            <BackgroundBtn type="button" disabled={showeModal} onClick={onModal} title="Ви можете змінити фон">
                 <RiImage2Fill style={iconStyle}/>
             </BackgroundBtn>
            {showeModal && <Modal onClose={()=>setShoweModal(false)}>
